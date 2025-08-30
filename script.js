@@ -1,4 +1,4 @@
-// Сохраняем ссылки на неизменяемые элементы
+// Save links to immutable elements
 let prev = document.querySelector('.prev');
 let next = document.querySelector('.next');
 let sliderList = document.querySelector('.slider_list');
